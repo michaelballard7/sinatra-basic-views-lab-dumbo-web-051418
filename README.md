@@ -12,7 +12,7 @@
 You've been hired to build an app for the local bowling alley. They want a page that displays their regular hours, dates of tournaments, bowling alley bar menus, and eventually, a way to reserve and pay for a lane online.
 
 But for now, they'll settle for just the basics.
-
+  
 ### Step 1:
 
 Start by writing the HTML in `index.erb`. Run the rspec tests to make sure you have the appropriate content on the page.
